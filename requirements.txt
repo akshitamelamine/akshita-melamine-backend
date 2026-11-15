@@ -4,6 +4,6 @@ pillow
 python-multipart
 slowapi
 SQLAlchemy
-psycopg2-binary
+psycopg[binary]
 supabase
 python-dotenv
