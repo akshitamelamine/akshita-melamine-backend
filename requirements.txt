@@ -3,3 +3,7 @@ uvicorn[standard]
 pillow
 python-multipart
 slowapi
+SQLAlchemy
+psycopg2-binary
+supabase
+python-dotenv
